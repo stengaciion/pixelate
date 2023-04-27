@@ -6,18 +6,27 @@
 html {
   background-color: #222;
   color: white;
+  
 }
 
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
 /* your CSS below! */
 
 td {
+  
   height: 50px;
   width: 50px;
   background-color:lightgrey
+
+}
+
+#add-row{
+  background-color: aqua;
+  cursor: pointer;
 }

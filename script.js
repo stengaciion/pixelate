@@ -12,6 +12,15 @@ function makeRow (){
     row.appendChild(td)
 }
     table.appendChild(row)
+
+    
 }
 makeRow();
 makeRow();
+makeRow();
+makeRow();
+makeRow();
+
+
+
+
