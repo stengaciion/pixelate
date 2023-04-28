@@ -6,14 +6,15 @@
 html {
   background-color: #222;
   color: white;
-  
+  cursor: pointer;
+
 }
 
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  
+ 
 }
 
 /* your CSS below! */
@@ -22,11 +23,27 @@ td {
   
   height: 50px;
   width: 50px;
-  background-color:lightgrey
-
+  background-color:lightgrey;
+ 
 }
 
 #add-row{
   background-color: aqua;
   cursor: pointer;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue{
+  background-color:blue;
+}
+
+ .black {
+  background-color: black;
+}
+
+.green {
+  background-color: green;
 }
